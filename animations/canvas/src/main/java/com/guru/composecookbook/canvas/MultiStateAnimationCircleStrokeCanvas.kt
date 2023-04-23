@@ -42,6 +42,6 @@ fun MultiStateAnimationCircleStrokeCanvas() {
             useCenter = false,
             style = stroke,
         )
-        rotationAngle += 40
+//        rotationAngle += 40
     }
 }
